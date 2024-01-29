@@ -29,6 +29,15 @@ Before you begin, ensure you have met the following requirements:
 - MySQL
 - Sequelize ORM
 
+## Technologies Used
+
+ - Node.js: Server-side JavaScript runtime.
+ - Express.js: Web application framework for Node.js.
+ - MySQL: Relational database for data storage.
+ - Sequelize ORM: Object-Relational Mapping for easy database interaction.
+ - JWT (JSON Web Tokens): Used for secure authentication.
+ - Bcrypt: Password hashing for enhanced security.
+
 ## Installation
 
 #### 1 . Clone the repository:
